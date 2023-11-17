@@ -44,7 +44,7 @@ class OpenSSLRecipe(Recipe):
 
     '''
 
-    version = '1.1.1'
+    version = '1.1'
     '''the major minor version used to link our recipes'''
 
     url_version = '1.1.1v'
